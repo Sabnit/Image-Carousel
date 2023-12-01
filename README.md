@@ -17,11 +17,3 @@ app.js: Contains the Carousel class and logic for the carousel functionality.
 constants.js: Defines default constants for transition durations and other configurations.
 
 index.html: Sample HTML structure to demonstrate how to integrate the carousel into a web page.
-
-## Configuration
-
-**Transition Duration (DEFAULT_TRANSITION):** Duration (in milliseconds) for slide transitions.
-
-**Hold Duration (DEFAULT_HOLD):** Time interval (in milliseconds) between slide transitions.
-
-**Image Width (DEFAULT_IMAGE_WIDTH):** Default width for each slide image.
