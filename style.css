@@ -1,5 +1,5 @@
 .carousel {
-  width: 500px;
+  width: 600px;
   /* border: 1px solid blue; */
   overflow: hidden;
   position: relative;
@@ -8,12 +8,13 @@
 
 .carousel-wrapper {
   display: flex;
+  right: 200px;
 }
 
 .carousel-wrapper .carousel-img {
   width: 600px;
+  height: 400px;
 }
-
 .carousel-controller {
   display: flex;
   flex-wrap: wrap;
