@@ -6,6 +6,10 @@
   margin: 0 auto;
 }
 
+.title {
+  text-align: center;
+}
+
 .carousel-wrapper {
   display: flex;
   right: 200px;
